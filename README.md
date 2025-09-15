@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratik9113&label=Profile%20views&color=0e75b6&style=flat" alt="pratik9113" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratik9113" alt="pratik9113" /></a> </p>
-
 - 🌱 I’m currently learning **CP, System Design, Langchain, LLD**
 
 - 💬 Ask me about **Coding, Designing**
@@ -26,3 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratik9113&show_icons=true&locale=en" alt="pratik9113" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratik9113&" alt="pratik9113" /></p>
+
