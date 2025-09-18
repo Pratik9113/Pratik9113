@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pratik Patil</h1>
+<img width="150" height="148" alt="image" src="https://github.com/user-attachments/assets/5ee8487c-5881-472b-86d7-85858122fd7e" /><h1 align="center">Hi 👋, I'm Pratik Patil</h1>
 <h3 align="center">Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratik9113&label=Profile%20views&color=0e75b6&style=flat" alt="pratik9113" /> </p>
@@ -8,6 +8,8 @@
 - 💬 Ask me about **Coding, Designing**
 
 - 📫 How to reach me **pratik.patil9113@gmail.com**
+
+- 🙎🏻‍♂️ PortFolio  **https://portfolio-pratikpatil.vercel.app/**
 
 - ⚡ Fun fact **SAB MOH MAYA HAII..**
 
