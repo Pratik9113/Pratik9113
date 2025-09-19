@@ -14,7 +14,7 @@
 
 ### Connect with me
 <p>
-  <a href="https://www.leetcode.com/pratik9113" target="_blank">
+  <a href="https://www.leetcode.com/pratik9113_" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
 </p>
