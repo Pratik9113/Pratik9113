@@ -9,7 +9,7 @@
 - 💬 Ask me about **Coding, Designing**  
 - 📫 How to reach me **pratik.patil9113@gmail.com**
 - 🌐 PortFolio **[portfolio-pratikpatil.vercel.app](https://portfolio-pratikpatil.vercel.app/)**
-- ⚡ Fun fact **SAB MOH MAYA HAI..!**
+- ⚡ Fun fact **SAB MOH MAYA HAI.. until the code works 😄**
 
 ---
 
