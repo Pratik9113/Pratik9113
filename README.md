@@ -61,15 +61,6 @@
 
 ---
 
-## 🚀 Featured Projects  
-
-- 🔗 **Nexus Bounty** – Blockchain-based freelance escrow platform  
-- 🤖 **AI SaaS Backend** – Scalable backend with automation & intelligence  
-- 📦 **Inventory Management System** – MERN + SQL Server with audit logs & RBAC  
-- 💬 **Negotiation Chat App** – Real-time buyer-retailer communication  
-
----
-
 ## 🧠 Current Focus  
 - System Design (HLD + LLD)  
 - Blockchain Development  
